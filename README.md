@@ -30,16 +30,21 @@ Before running the app, ensure that you have the following installed:
 Flutter
 
 ### Installation
+
 1. Clone the repository to your local machine:
-```git clone https://github.com/your-username/expense-tracker.git
+
+``` git clone https://github.com/your-username/expense-tracker.git
 ```
 2. Navigate to the project directory:
-```cd expense-tracker
+
+``` cd expense-tracker
 ```
 3. Install dependencies:
-```flutter pub get
+
+``` flutter pub get
 ```
 4. Run the app:
-```flutter run
+
+``` flutter run
 ```
 The app should now be running on your emulator or physical device.
